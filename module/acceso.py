@@ -13,9 +13,10 @@ plomo = '\033[30;1m'
 close = '\033[0m'
 
 
-username = '1'      
-password = '1'
+username = 'BLACKHYDRANGKS' 
+password = 'kuroko'
 
+os.system ("toilet -f big ' ' -F gay | lolcat")
 os.system ("toilet -f big 'NICK' -F gay | lolcat")
 print(amarillo)
 nick = str(input(' COLOQUE SEU NICK  : '))
