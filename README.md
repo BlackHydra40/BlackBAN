@@ -22,6 +22,57 @@ Password: kuroko
 
 # INSTALAÇÃO TERMUX 📱🕵
 
+```bash
+
+pkg update && pkg upgrade 
+
+pkg install git 
+
+git https://github.com/BlackHydra40/BlackBAN
+
+cd BlackBAN
+
+bash install.sh 
+
+bash black.sh 
+
+```
+
+# INSTALAÇÃO KALI E OUTROS 💻🥷
+
+```bash
+
+sudo apt update && apt upgrade 
+
+sudo apt install git 
+
+git https://github.com/BlackHydra40/BlackBAN
+
+cd BlackBAN
+
+sudo bash install.sh 
+
+bash black.sh 
+
+```
+
+# DOAÇÃO❤
+
+Pix:
+ms4010509@gmail.com 
+
+# Parceiros e contatos 🤜🤛
+
+Kuroko (Parceiro que me ajudou)
+Telegram: @kurokozinho 
+
+MS40 {DONO E CRIADOR DO SCRIPT}
+Telegram: @ms4010
+
+# ATÉ MAIS 🤩
+
+
+
 
 
 
