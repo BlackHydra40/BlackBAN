@@ -77,6 +77,16 @@ Telegram: @kurokozinho
 MS40 {DONO E CRIADOR DO SCRIPT}
 Telegram: @ms4010
 
+# versão 1.2
+atualizado no dia: 14/11/2022
+
+# FUTURAS IDEIAS +
+ADICIONAR UM MENU DE IDIOMAS: espanhou e ingles
+
+UMA OPÇÃO DE METODOS EXCLUSIVOS
+
+E MAIS METODOS DE BANIMETO
+
 # ATÉ MAIS 🤩
 
 
