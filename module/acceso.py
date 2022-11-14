@@ -13,10 +13,9 @@ plomo = '\033[30;1m'
 close = '\033[0m'
 
 
-username = 'BLACKHYDRANGKS' 
+username = 'BLACKHYDRANGKS'      
 password = 'kuroko'
 
-os.system ("toilet -f big ' ' -F gay | lolcat")
 os.system ("toilet -f big 'NICK' -F gay | lolcat")
 print(amarillo)
 nick = str(input(' COLOQUE SEU NICK  : '))
@@ -35,17 +34,19 @@ def main():
         if pwd == password:
             os.system("clear")
             time.sleep(2)
+            print('ENTRANDO NO TELEGRAM')
             os.system("xdg-open https://t.me/MS40_canal &> /dev/null && sleep 10")
+            os.system("clear")
             os.system ("toilet -f big 'BlackBAN' -F gay | lolcat")
             print("\n\033[32;1m OLÁ \033[32;1m ★",nick,"★\033[32;1m BEM VINDO AO BLACKBAN \n  FERRAMENTO VOLTADO A METODOS E ESQUEMAS DE BANIMENTO\n")
             time.sleep(2)
             print(verde,'+————————————————————————————————————————————————————————————+')
             print(verde)
-            print('  [ 02 ] BANIR NUMERO DE WHATSAPP')
-            print('  [ 04 ] BLINDAR NUMERO DE WHATSAPP')
-            print('  [ 03 ] DESBANIR NUMERO DE WHATSAPP')
-            print('  [ 05 ] DESATIVAR CONTA DE INSTAGRAM')
-            print('  [ 06 ] DESATIVAR CONTA DE FACEBOOK')
+            print('  [ 1 ] BANIR NUMERO DE WHATSAPP')
+            print('  [ 2 ] BLINDAR NUMERO DE WHATSAPP')
+            print('  [ 3 ] DESBANIR NUMERO DE WHATSAPP')
+            print('  [ 4 ] DESATIVAR CONTA DE INSTAGRAM')
+            print('  [ 5 ] DESATIVAR CONTA DE FACEBOOK')
             print('  [ 24 ] REDES SOCIAIS E SOBRE')
             
 
