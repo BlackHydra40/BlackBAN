@@ -1,10 +1,8 @@
 #!/system/xbin/bash
 
 clear
-cd module
 cat baner.txt | lolcat
-python3 acceso.py
-python3 black2.py
+python3 bn.py
 blue='\033[34;1m'
 green='\033[32;1m'  
 purple='\033[35;1m'
@@ -48,7 +46,7 @@ if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 figlet "ENTRANDO" | lolcat
-python3 tl.py
+php cc-br.php
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
