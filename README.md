@@ -82,7 +82,7 @@ Telegram: @kurokozinho
 MS40 {DONO E CRIADOR DO SCRIPT}
 Telegram: @ms4010
 
-# versão 1.2
+# versão 1.3
 atualizado no dia: 17/12/2022
 
 # FUTURAS IDEIAS +
